@@ -7,7 +7,7 @@ Advantage: it has very few parameters that we would have to adjust.
 
 In the MATLAB code (POS) Section I, 
 I have considered a swarm of 100 particles. 
-# of particles = 100
+Number of particles = 100
 iterations = 100
 Range of x and y fixed [-10,10]
 
@@ -53,7 +53,7 @@ Evaluate the Levi function's fitness values, followed by the sorting of rows w.r
 
 This procedure is repeated for 100 iterations.  
 In the end, the Gbest value is the answer to the minimization problem.
-###
+
 
 In the MATLAB code (POS) Section II,
 An animated graph is created where the Levi function is plotted, and the Pbest values for the first iteration are marked. 
